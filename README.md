@@ -83,8 +83,6 @@ $php spark serve
 
 ## Cara Menjalankan Web Secara Local
 
-s
-
 1. Download repository ini
 2. "Environment" pastikan semua telah dilakukan
 3. Lalu buka file XAMPP (php.ini) -> hapus semicolon (;) didepan extension=intl -> save
